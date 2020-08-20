@@ -46,3 +46,7 @@ www.reanmed.ru
 kremkosmetika.ru
 #image hosting
 c7.hotpng.com
+#образы на официальном сайте debian
+cdimage.debian.org
+#сервисы яндекса
+s115vla.storage.yandex.net
