@@ -1,1 +1,48 @@
-#
+#легитимный домен MS Office
+roaming.officeapps.live.com
+#Стоковые фото/видео, потоковое видео
+sample-videos.com
+avr.next-video.ru
+#Скрипты заглушки провайдера на просроченном домене
+/head-scripts-content.js
+/manifest.js
+#Страница с контактами организации
+/contacts.htm
+#сайт ветклиники
+evrovet36.ru
+#несколько трекеров
+pre.glotgrx.com
+sync.upravel.com
+stat4.oldrrb.bid
+select7.oldrrb.bid
+#официальный сайт банка
+www.tinkoff.ru
+#сайт с промокодами
+promokodi.net
+#рекламные домены
+topvisit.ru
+rt5.cackle.me
+#сайт по продаже билетов в кино
+kinohod.ru
+#сайт медицинской клиники
+www.smclinic.ru
+#виджеты на юридических сайтах
+cloud.lexprofit.net
+widget.cpa.pravoved.org
+#домены связанные с сервисом техподдержки zendesk
+ekr.zdassets.com
+static.zdassets.com
+#легитимные сервисы cloudflare
+cdnjs.cloudflare.com
+ajax.cloudflare.com
+#субдомен компании занимающейся встраиванием различных форм на сайты
+speedtest.popmechanic.ru
+#биржа копирайтинга
+www.etxt.ru
+#баннер о использовании cookie на сайте согласно GDPR
+cdn.cookielaw.org
+#медицинские сайты
+www.reanmed.ru
+kremkosmetika.ru
+#image hosting
+c7.hotpng.com
