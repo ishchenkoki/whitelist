@@ -50,3 +50,11 @@ c7.hotpng.com
 cdimage.debian.org
 #сервисы яндекса
 s115vla.storage.yandex.net
+#сервисы 9gag
+privacy-api.9gag.com
+miscmedia-9gag-fun.9cache.com
+img-9gag-fun.9cache.com
+js-webt-lol.9cache.com
+img-comment-fun.9cache.com
+assets-comment-fun.9cache.com
+file-9gag-lol.9cache.com
