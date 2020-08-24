@@ -44,6 +44,7 @@ cdn.cookielaw.org
 #медицинские сайты
 www.reanmed.ru
 kremkosmetika.ru
+nervy-expert.ru
 #image hosting
 pics.botanichka.ru
 c7.hotpng.com
@@ -75,3 +76,7 @@ wikimed.pro
 1000.menu
 #доставка продуктов от сбербанка
 sbermarket.ru
+#сервисы самсунга
+push.samsungosp.com
+#Различные CDN
+cdn.pixabay.com
