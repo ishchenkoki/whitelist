@@ -58,3 +58,8 @@ js-webt-lol.9cache.com
 img-comment-fun.9cache.com
 assets-comment-fun.9cache.com
 file-9gag-lol.9cache.com
+#страница с каталогом услуг/продукции
+/catalog
+#страница с changelog ПО
+/whats-new
+/whats-new/
