@@ -45,6 +45,7 @@ cdn.cookielaw.org
 www.reanmed.ru
 kremkosmetika.ru
 #image hosting
+pics.botanichka.ru
 c7.hotpng.com
 #образы на официальном сайте debian
 cdimage.debian.org
@@ -63,3 +64,14 @@ file-9gag-lol.9cache.com
 #страница с changelog ПО
 /whats-new
 /whats-new/
+#новостной сайт
+portofranko-vl.ru
+#субдомены интернет-магазина БАД
+secure.iherb.com
+s3.images-iherb.com
+#википедия по заболеваниям
+wikimed.pro
+#сайт с рецептами
+1000.menu
+#доставка продуктов от сбербанка
+sbermarket.ru
