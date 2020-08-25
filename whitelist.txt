@@ -16,6 +16,8 @@ pre.glotgrx.com
 sync.upravel.com
 stat4.oldrrb.bid
 select7.oldrrb.bid
+vast-bidder-eu-04.b.otm-r.com
+p.truefitcorp.com
 #официальный сайт банка
 www.tinkoff.ru
 #сайт с промокодами
@@ -29,6 +31,7 @@ kinohod.ru
 www.smclinic.ru
 #виджеты на юридических сайтах
 cloud.lexprofit.net
+cloud.lexprofit.ru
 widget.cpa.pravoved.org
 #домены связанные с сервисом техподдержки zendesk
 ekr.zdassets.com
@@ -46,6 +49,9 @@ cdn.cookielaw.org
 www.reanmed.ru
 kremkosmetika.ru
 nervy-expert.ru
+himki-sp.ru
+i.himki-sp.ru
+img.webmd.com
 #image hosting
 pics.botanichka.ru
 c7.hotpng.com
@@ -82,9 +88,33 @@ sbermarket.ru
 push.samsungosp.com
 #Различные CDN
 cdn.pixabay.com
+cdn8.irontekcrew.com
+cdn.irontekadm.com
 #заглавный баннер с логотипом
 /images/misc/vbulletin3_logo_white.gif
 #URL служебных легитимных библиотек
 /js/popper.min.js
 /engine/classes/js/dle_js.js
 /engine/classes/highslide/highslide.js
+#сайт компании по дезинфекции помещений
+dezcityvl.ru
+#официальный сайт проигрывателя media player classic
+mpc-hc.org
+#хостинг изображений
+i.stack.imgur.com
+fimgs.net
+i.fimgs.net
+#сайт магазина радиодеталей
+omegavl.ru
+#новостной украинский сайт
+24tv.ua
+#легитимный сервис гугла
+safebrowsing.google.com
+#cdn Вконтакте
+cs1-49v4.vkuservideo.net
+#сайт института стандартов и технологий
+institute-st.ru
+#библиотека для работы с датами в js
+momentjs.com
+#новостной портал ульяновска
+73online.ru
