@@ -8,6 +8,7 @@ avr.next-video.ru
 /manifest.js
 #Страница с контактами организации
 /contacts.htm
+/contacts.php
 #сайт ветклиники
 evrovet36.ru
 #несколько трекеров
@@ -62,6 +63,7 @@ assets-comment-fun.9cache.com
 file-9gag-lol.9cache.com
 #страница с каталогом услуг/продукции
 /catalog
+/price
 #страница с changelog ПО
 /whats-new
 /whats-new/
@@ -80,3 +82,9 @@ sbermarket.ru
 push.samsungosp.com
 #Различные CDN
 cdn.pixabay.com
+#заглавный баннер с логотипом
+/images/misc/vbulletin3_logo_white.gif
+#URL служебных легитимных библиотек
+/js/popper.min.js
+/engine/classes/js/dle_js.js
+/engine/classes/highslide/highslide.js
