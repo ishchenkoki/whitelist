@@ -39,6 +39,9 @@ static.zdassets.com
 #легитимные сервисы cloudflare
 cdnjs.cloudflare.com
 ajax.cloudflare.com
+cdn.cloudflare.steamstatic.com
+store.cloudflare.steamstatic.com
+community.cloudflare.steamstatic.com
 #субдомен компании занимающейся встраиванием различных форм на сайты
 speedtest.popmechanic.ru
 #биржа копирайтинга
@@ -90,6 +93,9 @@ push.samsungosp.com
 cdn.pixabay.com
 cdn8.irontekcrew.com
 cdn.irontekadm.com
+cdn.shopify.com
+c.disquscdn.com
+cdn2.rcstatic.com
 #заглавный баннер с логотипом
 /images/misc/vbulletin3_logo_white.gif
 #URL служебных легитимных библиотек
@@ -118,3 +124,28 @@ institute-st.ru
 momentjs.com
 #новостной портал ульяновска
 73online.ru
+#putty
+5b1f9593794bbecdad3c6eca7202c2ef3af223d42615847476997613b880b4ca
+db099747525911f906c4a545eee634b4
+bb783cbd01f6d9d630e61ee8e76fbb1e5b51b3c1
+#сервис для организации событий
+timepad.ru
+#сервис приема платежей на сайте
+www.free-kassa.ru
+#интернет-магазин косметики
+www.clarins.ru
+#сайт по отслеживанию госзакупок
+www.tenderguru.ru
+#лого twitter
+/images/twitter.png
+#статистика игр steam
+steamdb.info
+#Сервис потокового видео
+vod.provider.plex.tv
+epg.provider.plex.tv
+#обзоры на антивирусы
+www.comss.ru
+#легитимный субдомен сервиса для публикаций и статей
+glyph.medium.com
+#страница входа в личный кабинет партнеров интернет-магазина
+partners.sportmaster.ru
