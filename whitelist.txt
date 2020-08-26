@@ -18,12 +18,14 @@ stat4.oldrrb.bid
 select7.oldrrb.bid
 vast-bidder-eu-04.b.otm-r.com
 p.truefitcorp.com
+cloud.alfa-track.com
 #официальный сайт банка
 www.tinkoff.ru
 #сайт с промокодами
 promokodi.net
 #рекламные домены
 topvisit.ru
+push.yoox.com
 rt5.cackle.me
 #сайт по продаже билетов в кино
 kinohod.ru
@@ -149,3 +151,17 @@ www.comss.ru
 glyph.medium.com
 #страница входа в личный кабинет партнеров интернет-магазина
 partners.sportmaster.ru
+#сторонняя торговая площадка cs go
+market.csgo.com
+#виджет для связи в телеграм для сайтов
+telegramim.ru
+#ПО для работы с PDF
+www.foxitsoftware.com
+#ПО для организации рабочего пространства
+notion.so
+#интернет-магазин аксессуаров для авто
+topcargadgets.com
+#обзоры и статьи о русских сериалах
+vokrug-tv.ru
+#EVE online
+www.eveworkbench.com
