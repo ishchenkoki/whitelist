@@ -56,7 +56,9 @@ kremkosmetika.ru
 nervy-expert.ru
 himki-sp.ru
 i.himki-sp.ru
+ruanaliz.ru
 img.webmd.com
+/cardio/
 #image hosting
 pics.botanichka.ru
 c7.hotpng.com
@@ -104,6 +106,7 @@ cdn2.rcstatic.com
 /js/popper.min.js
 /engine/classes/js/dle_js.js
 /engine/classes/highslide/highslide.js
+/highslide/highslide-with-gallery.js
 #сайт компании по дезинфекции помещений
 dezcityvl.ru
 #официальный сайт проигрывателя media player classic
@@ -145,6 +148,7 @@ steamdb.info
 #Сервис потокового видео
 vod.provider.plex.tv
 epg.provider.plex.tv
+videout.net
 #обзоры на антивирусы
 www.comss.ru
 #легитимный субдомен сервиса для публикаций и статей
@@ -165,3 +169,8 @@ topcargadgets.com
 vokrug-tv.ru
 #EVE online
 www.eveworkbench.com
+#страница регистрации
+/register
+#вход в личный кабинет
+/users/login.asp
+/blog
