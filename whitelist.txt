@@ -115,6 +115,7 @@ sc.stat-cdn.com
 /engine/classes/js/dle_js.js
 /engine/classes/highslide/highslide.js
 /highslide/highslide-with-gallery.js
+www.springframework.org
 #сайт компании по дезинфекции помещений
 dezcityvl.ru
 #официальный сайт проигрывателя media player classic
@@ -216,3 +217,23 @@ static.politico.com
 counter.millionpodarkov.ru
 #проверка соединения с сетью
 ncsi.qnap.com
+#форум о продуктах kaspersky
+forum.kasperskyclub.ru
+#черные списки спамеров
+spamhaus.org
+#acrobat_reader
+49d72e8c8b2dafe2bc9748254b87aed37dce818f40ad9d490fa0bb9e16bfdf15
+50ca1a84e07cdd0936807b87d0eddb6e19c613bd
+f69648c0f8a6442746d4f1a456b026c2
+#YourPhone
+86a3723c664ef64aaa7d7d58736b45b783b572f3226333d58fd35083b3769b4c
+6e2b96a35400019f0d13594fb6f2406905094414
+da85be685ebeac842129a00530d2c9b2
+#AcroCEF
+374bab729bc1a4ec7002c7c4f69db2e24d02a171a9b8574ebfb8d6191327fea9
+fd8ccfd1fcbbc81fd7f7a1ac29f74a64eb4a778e
+74ffc5900fb083aa08d37d0a27ee65a1
+#chrome
+0717a6418eb946c57c5134668fc13b8fdce5378ef8834fdd5a0aeabf90a11002
+ed922c309b2ec6f605b8d6978006fbcc79a5bd6e
+6acae527e744c80997b25ef2a0485d5e
