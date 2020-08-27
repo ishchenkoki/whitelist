@@ -9,6 +9,7 @@ avr.next-video.ru
 #Страница с контактами организации
 /contacts.htm
 /contacts.php
+/Home/Contact
 #сайт ветклиники
 evrovet36.ru
 #несколько трекеров
@@ -17,6 +18,7 @@ sync.upravel.com
 stat4.oldrrb.bid
 select7.oldrrb.bid
 vast-bidder-eu-04.b.otm-r.com
+imp-bidder-eu-04.b.otm-r.com
 p.truefitcorp.com
 cloud.alfa-track.com
 #официальный сайт банка
@@ -63,6 +65,7 @@ img.webmd.com
 /cardio/
 vegapharm.ru
 osteohondroz24.ru
+www.orthoscheb.com
 #image hosting
 pics.botanichka.ru
 c7.hotpng.com
@@ -121,6 +124,7 @@ i.stack.imgur.com
 fimgs.net
 i.fimgs.net
 i.livelib.ru
+imglink.ru
 images.vfl.ru
 #сайт магазина радиодеталей
 omegavl.ru
@@ -156,6 +160,7 @@ steamdb.info
 vod.provider.plex.tv
 epg.provider.plex.tv
 videout.net
+newserial.net
 #обзоры на антивирусы
 www.comss.ru
 #легитимный субдомен сервиса для публикаций и статей
@@ -185,8 +190,10 @@ www.eveworkbench.com
 filters.adtidy.org
 #сайты по скачиванию книг
 mir-knig.com
-#сайт с юридическими статьями
+#юридические сайты
 legallabor.ru
+sudprav.ru
+morozova26.ru
 #виджет с чатом для сайтов
 client.crisp.chat
 settings.crisp.chat
@@ -198,3 +205,14 @@ public.superjob.ru
 audioaddict.com
 #сервис отслеживания времени
 time100.ru
+#городской форум улан-удэ
+ulanovka.ru
+zenlyapp.com
+#образовательная площадка
+fsd.multiurok.ru
+#новостной сайт (субдомен)
+static.politico.com
+#трекер посещаемости
+counter.millionpodarkov.ru
+#проверка соединения с сетью
+ncsi.qnap.com
