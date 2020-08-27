@@ -27,6 +27,8 @@ promokodi.net
 topvisit.ru
 push.yoox.com
 rt5.cackle.me
+grink-city.ru
+kameleoon.com
 #сайт по продаже билетов в кино
 kinohod.ru
 #сайт медицинской клиники
@@ -59,6 +61,8 @@ i.himki-sp.ru
 ruanaliz.ru
 img.webmd.com
 /cardio/
+vegapharm.ru
+osteohondroz24.ru
 #image hosting
 pics.botanichka.ru
 c7.hotpng.com
@@ -100,6 +104,7 @@ cdn.irontekadm.com
 cdn.shopify.com
 c.disquscdn.com
 cdn2.rcstatic.com
+sc.stat-cdn.com
 #заглавный баннер с логотипом
 /images/misc/vbulletin3_logo_white.gif
 #URL служебных легитимных библиотек
@@ -115,6 +120,8 @@ mpc-hc.org
 i.stack.imgur.com
 fimgs.net
 i.fimgs.net
+i.livelib.ru
+images.vfl.ru
 #сайт магазина радиодеталей
 omegavl.ru
 #новостной украинский сайт
@@ -174,3 +181,20 @@ www.eveworkbench.com
 #вход в личный кабинет
 /users/login.asp
 /blog
+#обновление списков adguard
+filters.adtidy.org
+#сайты по скачиванию книг
+mir-knig.com
+#сайт с юридическими статьями
+legallabor.ru
+#виджет с чатом для сайтов
+client.crisp.chat
+settings.crisp.chat
+#субдомены сервиса по поиску работы
+t.superjob.ru
+vladivostok.superjob.ru
+public.superjob.ru
+#сервис по прослушиванию музыки
+audioaddict.com
+#сервис отслеживания времени
+time100.ru
