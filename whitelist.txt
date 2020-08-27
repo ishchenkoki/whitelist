@@ -176,6 +176,7 @@ telegramim.ru
 www.foxitsoftware.com
 #ПО для организации рабочего пространства
 notion.so
+msgstore.www.notion.so
 #интернет-магазин аксессуаров для авто
 topcargadgets.com
 #обзоры и статьи о русских сериалах
@@ -237,3 +238,9 @@ fd8ccfd1fcbbc81fd7f7a1ac29f74a64eb4a778e
 0717a6418eb946c57c5134668fc13b8fdce5378ef8834fdd5a0aeabf90a11002
 ed922c309b2ec6f605b8d6978006fbcc79a5bd6e
 6acae527e744c80997b25ef2a0485d5e
+#сервисы keenetic
+captive.keenetic.net
+#компания по разработке чат-ботов
+salebot.pro
+#каталог новостоек
+gilc.ru
