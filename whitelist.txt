@@ -17,6 +17,8 @@ pre.glotgrx.com
 sync.upravel.com
 stat4.oldrrb.bid
 select7.oldrrb.bid
+static.dsn-cdn.ru
+js.mamydirect.com
 vast-bidder-eu-04.b.otm-r.com
 imp-bidder-eu-04.b.otm-r.com
 p.truefitcorp.com
@@ -30,6 +32,7 @@ topvisit.ru
 push.yoox.com
 rt5.cackle.me
 grink-city.ru
+htlb.casalemedia.com
 kameleoon.com
 #сайт по продаже билетов в кино
 kinohod.ru
@@ -115,6 +118,7 @@ sc.stat-cdn.com
 /engine/classes/js/dle_js.js
 /engine/classes/highslide/highslide.js
 /highslide/highslide-with-gallery.js
+/wp-content/themes/north/css/style-dynamic.php?ver=4.9.2
 www.springframework.org
 #сайт компании по дезинфекции помещений
 dezcityvl.ru
@@ -183,6 +187,7 @@ topcargadgets.com
 vokrug-tv.ru
 #EVE online
 www.eveworkbench.com
+newsfeed.eveonline.com
 #страница регистрации
 /register
 #вход в личный кабинет
@@ -196,6 +201,9 @@ mir-knig.com
 legallabor.ru
 sudprav.ru
 morozova26.ru
+tbti.ru
+gorabankov.ru
+ruprav.ru
 #виджет с чатом для сайтов
 client.crisp.chat
 settings.crisp.chat
@@ -244,3 +252,23 @@ captive.keenetic.net
 salebot.pro
 #каталог новостоек
 gilc.ru
+#СМИ
+zona.media
+#развлекательный сайт
+memepedia.ru
+#поиск по госконтрактам
+obosnuj.ru
+#уфимский политехнический техникум
+politex.tk
+#страница с условиями участия
+/terms
+#страница выхода из учетной записи
+/logout
+#отзывы о доменах
+wdomain.ru
+#сервис по бронированию отелей
+search.hotellook.com
+#блог по ИБ
+bezoblog.ru
+#обои для рабочего стола
+www.goodfon.ru
