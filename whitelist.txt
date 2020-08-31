@@ -69,6 +69,7 @@ img.webmd.com
 vegapharm.ru
 osteohondroz24.ru
 www.orthoscheb.com
+www.privivki.uz
 #image hosting
 pics.botanichka.ru
 c7.hotpng.com
@@ -272,3 +273,5 @@ search.hotellook.com
 bezoblog.ru
 #обои для рабочего стола
 www.goodfon.ru
+#английская локализация сайта
+/en/
