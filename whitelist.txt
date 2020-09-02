@@ -237,8 +237,11 @@ spamhaus.org
 f69648c0f8a6442746d4f1a456b026c2
 #YourPhone
 86a3723c664ef64aaa7d7d58736b45b783b572f3226333d58fd35083b3769b4c
+1cf71553a036678f26e7bca032c264e4b9b31badf0fd29e77ad1704429e56cfc
 6e2b96a35400019f0d13594fb6f2406905094414
+de9ce5ddf3f078801482652a6ad982dbd757626b
 da85be685ebeac842129a00530d2c9b2
+0bec9e6d4cbd82c8b6ac32dc04383700
 #AcroCEF
 374bab729bc1a4ec7002c7c4f69db2e24d02a171a9b8574ebfb8d6191327fea9
 fd8ccfd1fcbbc81fd7f7a1ac29f74a64eb4a778e
@@ -275,3 +278,6 @@ bezoblog.ru
 www.goodfon.ru
 #английская локализация сайта
 /en/
+#продажа косметики
+salonsecret.ru
+shop.salonsecret.ru
