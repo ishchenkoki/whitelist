@@ -1,18 +1,12 @@
-#легитимный домен MS Office
 roaming.officeapps.live.com
-#Стоковые фото/видео, потоковое видео
 sample-videos.com
 avr.next-video.ru
-#Скрипты заглушки провайдера на просроченном домене
 /head-scripts-content.js
 /manifest.js
-#Страница с контактами организации
 /contacts.htm
 /contacts.php
 /Home/Contact
-#сайт ветклиники
 evrovet36.ru
-#несколько трекеров
 pre.glotgrx.com
 sync.upravel.com
 stat4.oldrrb.bid
@@ -23,41 +17,30 @@ vast-bidder-eu-04.b.otm-r.com
 imp-bidder-eu-04.b.otm-r.com
 p.truefitcorp.com
 cloud.alfa-track.com
-#официальный сайт банка
 www.tinkoff.ru
-#сайт с промокодами
 promokodi.net
-#рекламные домены
 topvisit.ru
 push.yoox.com
 rt5.cackle.me
 grink-city.ru
 htlb.casalemedia.com
+shareasale-analytics.com
 kameleoon.com
-#сайт по продаже билетов в кино
 kinohod.ru
-#сайт медицинской клиники
 www.smclinic.ru
-#виджеты на юридических сайтах
 cloud.lexprofit.net
 cloud.lexprofit.ru
 widget.cpa.pravoved.org
-#домены связанные с сервисом техподдержки zendesk
 ekr.zdassets.com
 static.zdassets.com
-#легитимные сервисы cloudflare
 cdnjs.cloudflare.com
 ajax.cloudflare.com
 cdn.cloudflare.steamstatic.com
 store.cloudflare.steamstatic.com
 community.cloudflare.steamstatic.com
-#субдомен компании занимающейся встраиванием различных форм на сайты
 speedtest.popmechanic.ru
-#биржа копирайтинга
 www.etxt.ru
-#баннер о использовании cookie на сайте согласно GDPR
 cdn.cookielaw.org
-#медицинские сайты
 www.reanmed.ru
 kremkosmetika.ru
 nervy-expert.ru
@@ -70,14 +53,10 @@ vegapharm.ru
 osteohondroz24.ru
 www.orthoscheb.com
 www.privivki.uz
-#image hosting
 pics.botanichka.ru
 c7.hotpng.com
-#образы на официальном сайте debian
 cdimage.debian.org
-#сервисы яндекса
 s115vla.storage.yandex.net
-#сервисы 9gag
 privacy-api.9gag.com
 miscmedia-9gag-fun.9cache.com
 img-9gag-fun.9cache.com
@@ -85,26 +64,17 @@ js-webt-lol.9cache.com
 img-comment-fun.9cache.com
 assets-comment-fun.9cache.com
 file-9gag-lol.9cache.com
-#страница с каталогом услуг/продукции
 /catalog
 /price
-#страница с changelog ПО
 /whats-new
 /whats-new/
-#новостной сайт
 portofranko-vl.ru
-#субдомены интернет-магазина БАД
 secure.iherb.com
 s3.images-iherb.com
-#википедия по заболеваниям
 wikimed.pro
-#сайт с рецептами
 1000.menu
-#доставка продуктов от сбербанка
 sbermarket.ru
-#сервисы самсунга
 push.samsungosp.com
-#Различные CDN
 cdn.pixabay.com
 cdn8.irontekcrew.com
 cdn.irontekadm.com
@@ -112,172 +82,110 @@ cdn.shopify.com
 c.disquscdn.com
 cdn2.rcstatic.com
 sc.stat-cdn.com
-#заглавный баннер с логотипом
 /images/misc/vbulletin3_logo_white.gif
-#URL служебных легитимных библиотек
 /js/popper.min.js
 /engine/classes/js/dle_js.js
 /engine/classes/highslide/highslide.js
 /highslide/highslide-with-gallery.js
 /wp-content/themes/north/css/style-dynamic.php?ver=4.9.2
 www.springframework.org
-#сайт компании по дезинфекции помещений
 dezcityvl.ru
-#официальный сайт проигрывателя media player classic
 mpc-hc.org
-#хостинг изображений
 i.stack.imgur.com
 fimgs.net
 i.fimgs.net
 i.livelib.ru
 imglink.ru
 images.vfl.ru
-#сайт магазина радиодеталей
 omegavl.ru
-#новостной украинский сайт
 24tv.ua
-#легитимный сервис гугла
 safebrowsing.google.com
-#cdn Вконтакте
 cs1-49v4.vkuservideo.net
-#сайт института стандартов и технологий
 institute-st.ru
-#библиотека для работы с датами в js
 momentjs.com
-#новостной портал ульяновска
 73online.ru
-#putty
 5b1f9593794bbecdad3c6eca7202c2ef3af223d42615847476997613b880b4ca
 db099747525911f906c4a545eee634b4
 bb783cbd01f6d9d630e61ee8e76fbb1e5b51b3c1
-#сервис для организации событий
 timepad.ru
-#сервис приема платежей на сайте
 www.free-kassa.ru
-#интернет-магазин косметики
 www.clarins.ru
-#сайт по отслеживанию госзакупок
-www.tenderguru.ru
-#лого twitter
 /images/twitter.png
-#статистика игр steam
 steamdb.info
-#Сервис потокового видео
 vod.provider.plex.tv
 epg.provider.plex.tv
 videout.net
 newserial.net
-#обзоры на антивирусы
 www.comss.ru
-#легитимный субдомен сервиса для публикаций и статей
 glyph.medium.com
-#страница входа в личный кабинет партнеров интернет-магазина
 partners.sportmaster.ru
-#сторонняя торговая площадка cs go
 market.csgo.com
-#виджет для связи в телеграм для сайтов
 telegramim.ru
-#ПО для работы с PDF
 www.foxitsoftware.com
-#ПО для организации рабочего пространства
 notion.so
 msgstore.www.notion.so
-#интернет-магазин аксессуаров для авто
 topcargadgets.com
-#обзоры и статьи о русских сериалах
 vokrug-tv.ru
-#EVE online
 www.eveworkbench.com
 newsfeed.eveonline.com
-#страница регистрации
 /register
-#вход в личный кабинет
 /users/login.asp
 /blog
-#обновление списков adguard
 filters.adtidy.org
-#сайты по скачиванию книг
 mir-knig.com
-#юридические сайты
 legallabor.ru
 sudprav.ru
 morozova26.ru
 tbti.ru
 gorabankov.ru
 ruprav.ru
-#виджет с чатом для сайтов
 client.crisp.chat
 settings.crisp.chat
-#субдомены сервиса по поиску работы
 t.superjob.ru
 vladivostok.superjob.ru
 public.superjob.ru
-#сервис по прослушиванию музыки
 audioaddict.com
-#сервис отслеживания времени
 time100.ru
-#городской форум улан-удэ
 ulanovka.ru
 zenlyapp.com
-#образовательная площадка
 fsd.multiurok.ru
-#новостной сайт (субдомен)
 static.politico.com
-#трекер посещаемости
 counter.millionpodarkov.ru
-#проверка соединения с сетью
 ncsi.qnap.com
-#форум о продуктах kaspersky
 forum.kasperskyclub.ru
-#черные списки спамеров
 spamhaus.org
-#acrobat_reader
 49d72e8c8b2dafe2bc9748254b87aed37dce818f40ad9d490fa0bb9e16bfdf15
 50ca1a84e07cdd0936807b87d0eddb6e19c613bd
 f69648c0f8a6442746d4f1a456b026c2
-#YourPhone
 86a3723c664ef64aaa7d7d58736b45b783b572f3226333d58fd35083b3769b4c
 1cf71553a036678f26e7bca032c264e4b9b31badf0fd29e77ad1704429e56cfc
 6e2b96a35400019f0d13594fb6f2406905094414
 de9ce5ddf3f078801482652a6ad982dbd757626b
 da85be685ebeac842129a00530d2c9b2
 0bec9e6d4cbd82c8b6ac32dc04383700
-#AcroCEF
 374bab729bc1a4ec7002c7c4f69db2e24d02a171a9b8574ebfb8d6191327fea9
 fd8ccfd1fcbbc81fd7f7a1ac29f74a64eb4a778e
 74ffc5900fb083aa08d37d0a27ee65a1
-#chrome
 0717a6418eb946c57c5134668fc13b8fdce5378ef8834fdd5a0aeabf90a11002
 ed922c309b2ec6f605b8d6978006fbcc79a5bd6e
 6acae527e744c80997b25ef2a0485d5e
-#сервисы keenetic
 captive.keenetic.net
-#компания по разработке чат-ботов
 salebot.pro
-#каталог новостоек
 gilc.ru
-#СМИ
 zona.media
-#развлекательный сайт
 memepedia.ru
-#поиск по госконтрактам
 obosnuj.ru
-#уфимский политехнический техникум
 politex.tk
-#страница с условиями участия
 /terms
-#страница выхода из учетной записи
 /logout
-#отзывы о доменах
 wdomain.ru
-#сервис по бронированию отелей
 search.hotellook.com
-#блог по ИБ
 bezoblog.ru
-#обои для рабочего стола
 www.goodfon.ru
-#английская локализация сайта
 /en/
-#продажа косметики
 salonsecret.ru
 shop.salonsecret.ru
+updater.prntscr.com
+services.addons.thunderbird.net
+img.brandshop.ru
+studopedia.ru
