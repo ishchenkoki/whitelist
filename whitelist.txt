@@ -189,3 +189,10 @@ updater.prntscr.com
 services.addons.thunderbird.net
 img.brandshop.ru
 studopedia.ru
+/license
+/wp-includes/js/wp-embed.min.js
+/js/jquery.prettyPhoto.js
+/forum
+onwine.com.ua
+shopifyfactor.com
+teampass.net
