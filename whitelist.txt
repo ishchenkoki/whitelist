@@ -201,3 +201,13 @@ www.partner-tara.ru
 igloo.ru
 kzn.getfaster.ru
 edost.ru
+hirstom.ru
+cdn.popt.in
+display.popt.in
+otzovik.com
+/site/index
+/engine/classes/js/dle_js.js
+/rooms.html
+/timetable/
+www.glassnaya.ru
+perspektiva-dnepr.dp.ua
