@@ -234,3 +234,8 @@ ee8cbf12d87c4d388f09b4f69bed2e91682920b5
 17f746d82695fa9b35493b41859d39d786d32b23a9d2e00f4011dec7a02402ae
 ad7b9c14083b52bc532fba5948342b98
 welcome.adguard.com
+/engine/opensearch.php
+/Scripts/jquery.validate.js
+/lk
+/vacancies
+/submit
