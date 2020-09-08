@@ -239,3 +239,6 @@ welcome.adguard.com
 /lk
 /vacancies
 /submit
+dc5cf07154d006dc6ec5e2189b7cdd9058b344368037bcce701dd86a80d7a8f1
+8ee3f5e4be6c1282f76873c979960b77d97f92b0
+9fc4975a8a292b6d78435dec7e0e0be3
