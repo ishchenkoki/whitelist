@@ -248,3 +248,6 @@ dc5cf07154d006dc6ec5e2189b7cdd9058b344368037bcce701dd86a80d7a8f1
 /home
 s298myt.storage.yandex.net
 s115vla.storage.yandex.net
+endads.net
+pixel-geo.prfct.co
+/index.php?id=7
