@@ -255,3 +255,4 @@ pixel-geo.prfct.co
 79b552e20791896dc2e5f56cd1583041aa20079b235244fa7ad37ab242513f77
 d5f951d70e5bd3ae7fe87d8bd910ded5
 msedge.f.tlu.dl.delivery.mp.microsoft.com
+tripedali.ru
