@@ -292,3 +292,5 @@ f02f513ad251e5cd560aa07a4b3e7259
 f280858dcfefabc1a9a006a57f6b266a5d1fde8e
 eee9c44c29c2be011f1f1e43bb8c3fca888cb81053022ec5a0060035de16d848
 1136efb1a46d1f2d508162387f30dc4d
+/contribute/
+/index.php?route=checkout/checkout
