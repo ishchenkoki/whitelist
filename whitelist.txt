@@ -295,3 +295,9 @@ eee9c44c29c2be011f1f1e43bb8c3fca888cb81053022ec5a0060035de16d848
 /contribute/
 /index.php?route=checkout/checkout
 /js/init.js
+/js/share.js
+/kontakt/
+webattach.mail.yandex.net
+doc-08-64-docs.googleusercontent.com
+/engine/data/emoticons/fellow.gif
+ds05.infourok.ru
