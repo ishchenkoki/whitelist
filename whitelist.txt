@@ -391,3 +391,7 @@ i1.tchkcdn.com
 s0.tchkcdn.com
 78.46.16.13
 shmyandeks.ru
+/information/
+/shop/
+/information
+/assets/apitracker.js
