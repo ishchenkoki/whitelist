@@ -486,4 +486,12 @@ cdn.cookielaw.org
 www.kredito24.ru
 my.kredito24.ru
 new.kredito24.ru
-vlad-inn.ru 
+vlad-inn.ru
+/IE9CompatViewList.xml
+/wp-content/plugins/revslider/public/assets/js/extensions/revolution.extension.video.min.js
+pre.glotgrx.com
+www.wormly.com
+vocabularybooster.ru
+/vacancies/
+prg.kargo.com
+pixel.advertising.com
