@@ -476,3 +476,6 @@ b560254549c9fd968efd10d8054473c8
 cdn.download.comodo.com
 a0628836960198f937f134e8a9c12a5ea38d682da3dd5e026170dfbc3eaa992e
 www.moneza.ru
+sindroms.ru
+radio-dialog.ru
+geo.moatads.com
