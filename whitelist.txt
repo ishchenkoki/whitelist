@@ -502,3 +502,5 @@ grammar-tei.com
 276e872f7846d6f12c2207667d28bd76be7f667b
 accc1b09fd9179ca50b3757b973e0d6500c52beed838cd38a22170f3d112e59a
 a826a51b8c8a9d7489d4a946d1fc0649
+secure.jbs.elsevierhealth.com
+els-jbs-prod-cdn.jbs.elsevierhealth.com
