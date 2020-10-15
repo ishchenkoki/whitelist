@@ -504,3 +504,13 @@ accc1b09fd9179ca50b3757b973e0d6500c52beed838cd38a22170f3d112e59a
 a826a51b8c8a9d7489d4a946d1fc0649
 secure.jbs.elsevierhealth.com
 els-jbs-prod-cdn.jbs.elsevierhealth.com
+c4eea6f352d6e631abdbe6d638155c8cc0551b253185f10a1058e8da61ad53fe
+/js/plugins.js
+/Scripts/bootstrap.min.js
+104.23.139.12
+printvsem.ru
+ksi-va.ru
+uc.chatra-usercontent.com
+fischer74.ru
+insurance.mediaalpha.com
+logospace.ru
