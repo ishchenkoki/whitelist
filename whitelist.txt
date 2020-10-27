@@ -589,3 +589,7 @@ e85753815bd651f7a8d1002c91f3242c136ccf4b
 /books
 /images/load.gif
 /img/preloader.gif
+/menu
+/wp-includes/js/wp-emoji-release.min.js?ver=5.3.2
+/p/blog-page.html
+/media/widgetkit/widgets/lightbox/images/blank.gif
