@@ -578,3 +578,14 @@ e85753815bd651f7a8d1002c91f3242c136ccf4b
 /css/slick.css
 /o-nas/
 /account/login/
+/media/widgetkit/js/jquery.js
+/wp-content/themes/sahifa/favicon.ico
+/partner.html
+/wp-includes/js/jquery/jquery.js?ver=1.11.0
+/search.php
+/wp-includes/js/jquery/jquery.js?ver=1.8.3
+/css/flexslider.css
+/rules.php
+/books
+/images/load.gif
+/img/preloader.gif
