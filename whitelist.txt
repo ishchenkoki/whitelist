@@ -678,3 +678,8 @@ the.earth.li
 bffc4babd91123431c41d17c6fa69ad950c6b581
 a7663f7cc4e6f7cb30a554ebcdd5842bbae4cedf1adac870968ad3fd9726408a
 fb01df85ee2959dbb709c364b95b72f6
+/favicon.gif
+/content
+/content/
+/doc/
+zimamagazine.com
