@@ -705,3 +705,10 @@ content-signature-2.cdn.mozilla.net
 www.ntvpkedr.ru
 pool.img.aptoide.com
 ecomarket.ru
+prd-collector-anon.playbuzz.com
+4e8d54a0b1854f9e25669bf0392b73750c6765e13050b242452a84edce8509f4
+d57705b9fa2833a71fb1d2d443b647fa50cc0a54
+260f5ad6e824d51fe581c3b252aa1299
+069854fec269d777a09640a7cf014be99e5e6c4b
+34465c5fbf8c8946aa4876ab3ded8c786a22cb0ce708b838cdcb7331b50b4fec
+f2d0217769e926c45db21b60aea72a25
