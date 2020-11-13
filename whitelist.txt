@@ -714,3 +714,9 @@ d57705b9fa2833a71fb1d2d443b647fa50cc0a54
 f2d0217769e926c45db21b60aea72a25
 /js/jquery.easing.1.3.js
 /js/code-fb.js
+match.adsrvr.org
+/wp-content/plugins/dynamic-to-top/js/libs/jquery.easing.js?ver=1.3
+/index.php?route=information/contact
+/clientscript/yui/yahoo-dom-event/yahoo-dom-event.js
+pelena-256.ru
+/smart.php
