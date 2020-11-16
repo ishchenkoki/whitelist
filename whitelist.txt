@@ -720,3 +720,7 @@ match.adsrvr.org
 /clientscript/yui/yahoo-dom-event/yahoo-dom-event.js
 pelena-256.ru
 /smart.php
+f5801470145fe1b446e98e7709311271
+50e7ef28a2653c9a58031c1a97d86787572cd933
+a0628836960198f937f134e8a9c12a5ea38d682da3dd5e026170dfbc3eaa992e
+govoritmoskva.ru
