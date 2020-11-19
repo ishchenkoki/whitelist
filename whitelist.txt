@@ -743,3 +743,11 @@ map.go.affec.tv
 617ef2f30b048675c2645b8c545927105f846e97
 ce211cdc969d908ff16b48625a575c049778a4044b706999c0c62b4810234881
 c4dd14502b567847b283903362c191ea
+/seminar/
+/jquery-1.4.2.min.js
+/css/magnific-popup.css
+/accounts/login/
+vista-mediclub.com
+svaibir.ru
+/js.js
+/order.php
