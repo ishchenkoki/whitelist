@@ -792,3 +792,4 @@ f5638a26a57a9ef9dbfb0b1a324c13f2b548f308
 /menu.html
 pelena-256.ru
 31.41.43.1
+kit.fontawesome.com
