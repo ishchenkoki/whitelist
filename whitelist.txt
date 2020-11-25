@@ -793,3 +793,9 @@ f5638a26a57a9ef9dbfb0b1a324c13f2b548f308
 pelena-256.ru
 31.41.43.1
 kit.fontawesome.com
+cdn1.savepice.ru
+104.31.76.180
+104.16.123.96
+www.cloudflare.com
+blokada.org
+exchange.xforce.ibmcloud.com
