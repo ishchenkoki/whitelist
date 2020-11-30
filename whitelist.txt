@@ -821,3 +821,10 @@ all-make.net
 c1352b1ef6f4341991fe465d11e8f1e9e86ceb6c1edab86bb5d6874c23b48ce7
 8ab19b2229717fe3c45232b4e2b75d21c567bd0c
 ea179f56adea642740a2cb57e9f84687
+104.16.64.54
+rus.megapesni.com
+104.31.66.31
+toshop.ru
+phpclub.ru
+gloimg.gbtcdn.com
+/js/slick.min.js
