@@ -845,3 +845,8 @@ database.clamav.net
 33735d2ab7cbf34128905757ab2e5dae7035ba2f7ed7dfd8eea3e2ead9a61c3e
 95538454984decca692e565e202904d4ee4075e3
 c42731cd5935dd33d8d78990f93fd9e0
+/?page_id=21
+/content/javascript/tracking.js
+/forums/
+www.goodfon.ru
+oplata-nalogov.club
