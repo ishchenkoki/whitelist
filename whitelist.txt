@@ -855,3 +855,5 @@ www.who.int
 /owa/auth.owa
 uchebnik.mos.ru 
 185.173.0.226
+belvet.by
+/wp-includes/css/dist/block-library/style.min.css
