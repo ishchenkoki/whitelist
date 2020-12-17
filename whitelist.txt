@@ -895,3 +895,12 @@ b71b22f7f5bbde4fdc6ab7b3053cb0e3
 02efc3fa39daeb2a5b3bed3cb369abbb251906a5
 6127ff92da3ff5016f9966faf00da8789eb21543
 9ff3a7aa9559e0d05efa0a429a73f1244e23faf3
+/hotel/
+censys.io
+/plugins/system/jcemediabox/themes/standard/tooltip.html
+/web/CheckDate.aspx
+/assets/css/bootstrap.min.css
+/delivery/
+/libs/granite/csrf/token.json
+/tech/
+/partners/
