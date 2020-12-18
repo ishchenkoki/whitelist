@@ -904,3 +904,4 @@ censys.io
 /libs/granite/csrf/token.json
 /tech/
 /partners/
+/js.php
