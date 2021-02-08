@@ -997,3 +997,8 @@ f586835082f632dc8d9404d83bc16316
 resize.yandex.net
 237cf39b50a3aaa6d810777fd1d4f313cd40c77b12f587878f134dd12da5bb80
 adea78e679f0b8ebe72a89f9274007afdcc702530c5e38bc812670386920e9de
+help.mail.ru
+nevseoboi.com.ua
+web-telegram.ru
+/index.shtml
+/wiki/
